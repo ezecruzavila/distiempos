@@ -1,6 +1,9 @@
 {
   "posts": [
     {
+      "quirofano":{
+        "nombre": "qx1"
+        }
       "id": 1,
       "title": "hello"
     }
