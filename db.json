@@ -1,5 +1,23 @@
 {
   "profile": {
     "name": "typicode"
-  }
+  },
+  "observaciones":[
+    {
+    "id": 1,
+    "id_accion":1,
+    "descripcion": "A la espera de equipo quirurgico"
+    },
+        {
+    "id": 2,
+    "id_accion":1,
+    "descripcion": "A la espera de equipo de anestesia"
+    },
+        {
+    "id": 3,
+    "id_accion":1,
+    "descripcion": "Demora de camillero"
+    }
+    ]
+                  
 }
